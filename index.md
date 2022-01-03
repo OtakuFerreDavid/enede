@@ -7,25 +7,12 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Fotografy &mdash; Free Fully Responsive HTML5 Bootstrap Template by FREEHTML5.co</title>
+	<title>Enede - Arts Gràfiques i Disseny </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="description" content="Enede - Arts Gràfiques i Disseny" />
+	<meta name="keywords" content="Enede,Arts, Gràfiques,Disseny" />
+	<meta name="author" content="David" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -69,14 +56,14 @@
 			<!-- Mobile Toggle Menu Button -->
 			<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
 			<div id="fh5co-logo">
-				<a href="index.html">fotografy<span>.</span></a>
+				<a href="/">ENEDE<span>.</span></a>
 			</div>
 			<nav id="fh5co-main-nav">
 				<ul>
 					<li><a href="#" data-nav-section="home">Home</a></li>
 					<li><a href="#" data-nav-section="portfolio">Portfolio</a></li>
-					<li><a href="#" data-nav-section="about">About</a></li>
-					<li><a href="#" data-nav-section="contact">Contact</a></li>
+					<li><a href="#" data-nav-section="about">Sobre Nosaltres</a></li>
+					<li><a href="#" data-nav-section="contact">Contacte</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -338,8 +325,8 @@
 				<div class="row">
 					<div class="col-md-6 col-sm-6 animate-box">
 						<div class="fh5co-footer-widget">
-							<p>&copy; Fotografy Free HTML5 Template. All Rights Reserved.</p>
-							<p>Designed by <a href="http://freehtml5.co/">FREEHTML5.co</a> Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a> &amp; <a href="http://pexels.com/" target="_blank">Pexels</a></p>
+							<p>&copy; Enede - Arts Gràfiques i Disseny. All Rights Reserved.</p>
+							<p>Designed by David</p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 animate-box">
