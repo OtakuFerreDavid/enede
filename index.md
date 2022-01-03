@@ -109,7 +109,7 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_1.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_1.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -120,7 +120,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_2.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_2.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -131,41 +131,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_3.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_5.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_6.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_3.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -177,7 +143,7 @@
 
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_7.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_4.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -188,7 +154,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_8.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_5.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -199,7 +165,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_9.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_6.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -211,7 +177,7 @@
 
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_10.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_7.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -222,7 +188,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_11.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_8.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
@@ -233,7 +199,41 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="images/pic_12.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<img src="images/pic_9.jpg" alt="Imatge" class="img-responsive">
+							<a href="portfolio-single.html" class="transition">
+								<div>
+									<span class="fh5co-meta">15 images</span>
+									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="images/pic_10.jpg" alt="Imatge" class="img-responsive">
+							<a href="portfolio-single.html" class="transition">
+								<div>
+									<span class="fh5co-meta">15 images</span>
+									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="images/pic_11.jpg" alt="Imatge" class="img-responsive">
+							<a href="portfolio-single.html" class="transition">
+								<div>
+									<span class="fh5co-meta">15 images</span>
+									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="images/pic_12.jpg" alt="Imatge" class="img-responsive">
 							<a href="portfolio-single.html" class="transition">
 								<div>
 									<span class="fh5co-meta">15 images</span>
