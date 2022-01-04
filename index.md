@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -7,12 +6,13 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Enede - Arts Gràfiques i Disseny </title>
+	<title>ENEDE &mdash; Arts Gràfiques i Disseny</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Enede - Arts Gràfiques i Disseny" />
-	<meta name="keywords" content="Enede,Arts, Gràfiques,Disseny" />
+	<meta name="description" content="Arts Gràfiques i Disseny" />
+	<meta name="keywords" content="Arts Gràfiques,Disseny,samarretes, logos, camises,seregrafiar,rotulacio" />
 	<meta name="author" content="David" />
 
+ 
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -27,16 +27,18 @@
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
-	<!-- Google Fonts -->
-	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,300,700' rel='stylesheet' type='text/css'>
-	<!-- Animate -->
+
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+	
+	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
-	<!-- Flexslider -->
-	<link rel="stylesheet" href="css/flexslider.css">
-	<!-- Icomoon -->
+	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 	<link rel="stylesheet" href="css/style.css">
 
@@ -50,328 +52,182 @@
 
 	</head>
 	<body>
-	
-	<div id="fh5co-header">
-		<div class="container">
-			<!-- Mobile Toggle Menu Button -->
-			<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-			<div id="fh5co-logo">
-				<a href="/">ENEDE<span>.</span></a>
-			</div>
-			<nav id="fh5co-main-nav">
-				<ul>
-					<li><a href="#" data-nav-section="home">Home</a></li>
-					<li><a href="#" data-nav-section="portfolio">Portfolio</a></li>
-					<li><a href="#" data-nav-section="about">Sobre Nosaltres</a></li>
-					<li><a href="#" data-nav-section="contact">Contacte</a></li>
-				</ul>
-			</nav>
+	<div class="box-wrap">
+		<header role="banner" id="fh5co-header">
+			<div class="container">
+				<nav class="navbar navbar-default">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="fh5co-navbar-brand">
+								<a class="fh5co-logo" href="index.html">ENEDE</a>
+							</div>
+						</div>
+						<div class="col-md-9 main-nav">
+							<ul class="nav text-right">
+								<li class="active"><a href="/"><span>Inici</span></a></li>
+								<li><a href="services.html">Serveis</a></li>
+								<li><a href="product.html">Productes</a></li>
+								<li><a href="about.html">Sobre Nosaltres</a></li>
+								<li><a href="contact.html">Contacte</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+		  </div>
+		</header>
+		<!-- END: header -->
+		<div class="owl-carousel owl-carousel1 owl-carousel-fullwidth fh5co-light-arrow animate-box" data-animate-effect="fadeIn">
+			<div class="item"><a href="images/img_large_1.jpg" class="image-popup"><img src="images/img_large_1.jpg" alt="image"></a></div>
+			<div class="item"><a href="images/img_large_2.jpg" class="image-popup"><img src="images/img_large_2.jpg" alt="image"></a></div>
+			<div class="item"><a href="images/img_large_3.jpg" class="image-popup"><img src="images/img_large_3.jpg" alt="image"></a></div>
+			<div class="item"><a href="images/img_large_4.jpg" class="image-popup"><img src="images/img_large_4.jpg" alt="image"></a></div>
+			<div class="item"><a href="images/img_large_5.jpg" class="image-popup"><img src="images/img_large_5.jpg" alt="image"></a></div>
 		</div>
-	</div>
-	<div id="fh5co-main">
-		<div class="fh5co-overlay-mobile"></div>
-		<div id="fh5co-home" class="js-fullheight" data-section="home">
+		<div id="fh5co-media-section">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section">
+						<h3>Benvinguts a Enede</h3>
+						<p>Empresa d'Arts Gràfiques i Disseny</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-7 animate-box">
+						<div class="fh5co-cover" style="background-image: url(images/work-1.jpg);">
+							<div class="desc">
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+								<span>Web Design</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-5">
+						<div class="fh5co-cover">
+							<div class="fh5co-cover-hero animate-box">
+								<div class="fh5co-cover-thumb" style="background-image: url(images/work-2.jpg);"></div>
+								<div class="desc-thumb">
+									<p>Far far away, behind the word mountains, far from the</p>
+									<span>Web Design</span>
+								</div>
+							</div>
 
-			<div class="flexslider">
-				
-				<div class="fh5co-overlay"></div>
-				<div class="fh5co-text">
-					<div class="container">
-						<div class="row text-center">
-							<h1 class="animate-box">We love to tell your story</h1>
-							<div class="fh5co-go animate-box">
-								<a href="#" class="js-fh5co-next">
-									See Portfolio
-									<span><i class="icon-arrow-down2"></i></span>
-								</a>
-								
+							<div class="fh5co-cover-hero animate-box">
+								<div class="fh5co-cover-thumb" style="background-image: url(images/work-3.jpg);"></div>
+								<div class="desc-thumb">
+									<p>Far far away, behind the word mountains, far from the</p>
+									<span>User Experience</span>
+								</div>
+							</div>
+
+							<div class="fh5co-cover-hero animate-box">
+								<div class="fh5co-cover-thumb" style="background-image: url(images/work-4.jpg);"></div>
+								<div class="desc-thumb">
+									<p>Far far away, behind the word mountains, far from the</p>
+									<span>Web Developement</span>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			  	<ul class="slides">
-			   	<li style="background-image: url(images/slide_2.jpg);" data-stellar-background-ratio="0.5"></li>
-			   	<li style="background-image: url(images/slide_1.jpg);" data-stellar-background-ratio="0.5"></li>
-			   	<li style="background-image: url(images/slide_3.jpg);" data-stellar-background-ratio="0.5"></li>
-			  	</ul>
-
 			</div>
 		</div>
-
-		<div id="fh5co-portfolio" data-section="portfolio">
-			<div class="container">
-				<div class="row r-pb">
-					<div class="col-md-8 col-md-offset-2 text-center section-heading">
-						<h2 class="fh5co-section-title animate-box">Portfolio</h2>
-						<p class="fh5co-lead animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_1.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_2.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_3.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_4.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_5.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_6.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_7.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_8.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_9.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_10.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_11.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="images/pic_12.jpg" alt="Imatge" class="img-responsive">
-							<a href="portfolio-single.html" class="transition">
-								<div>
-									<span class="fh5co-meta">15 images</span>
-									<h2 class="fh5co-title">Rob &amp; Jean Wedding</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-				</div>
+		<!-- END fh5co-media-section -->
+		<div id="fh5co-intro-section">
+			<div class="fh5co-intro-cover text-center animate-box" data-animate-effect="fadeIn" data-stellar-background-ratio="0.5" style="background-image: url(images/intro.jpg);">
+				<a href="#" class="btn">Serving You Is Our First Priority</a>
 			</div>
 		</div>
-
-		<div id="fh5co-about" data-section="about">
-			<div class="container">
-				<div class="row r-pb">
-					<div class="col-md-8 col-md-offset-2 text-center section-heading animate-box">
-						<h2 class="fh5co-section-title">About</h2>
-						<p class="fh5co-lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-6 animate-box">
-						<div class="fh5co-text with-plus">
-							<h2>Rob Smith</h2>
-							<span class="fh5co-meta">Photographer, Video Editor</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="fh5co-text">
-							<h2>Jean Smith</h2>
-							<span class="fh5co-meta">Photographer, Copy writer</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-
-		
-
-		<div id="fh5co-contact" data-section="contact">
+		<!-- END fh5co-intro-section -->
+		<div id="fh5co-product-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center section-heading">
-						<h2 class="fh5co-section-title animate-box">Contact</h2>
-						<p class="fh5co-lead animate-box">We'd love to talk about your story.</p>
-						<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p class="animate-box"><a href="http://freehtml5.co/" target="_blank" class="btn btn-primary btn-lg">Get in touch</a></p>
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+						<h3>Products</h3>
+						<p>Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 					</div>
+				</div>
+				<div class="owl-carousel owl-carousel2">
+					<div class="item animate-box"><a href="images/product-1.jpg" class="image-popup"><img src="images/product-1.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-2.jpg" class="image-popup"><img src="images/product-2.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-3.jpg" class="image-popup"><img src="images/product-3.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-4.jpg" class="image-popup"><img src="images/product-4.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-1.jpg" class="image-popup"><img src="images/product-1.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-2.jpg" class="image-popup"><img src="images/product-2.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-3.jpg" class="image-popup"><img src="images/product-3.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-4.jpg" class="image-popup"><img src="images/product-4.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-1.jpg" class="image-popup"><img src="images/product-1.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-2.jpg" class="image-popup"><img src="images/product-2.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-3.jpg" class="image-popup"><img src="images/product-3.jpg" alt="image"></a></div>
+					<div class="item animate-box"><a href="images/product-4.jpg" class="image-popup"><img src="images/product-2.jpg" alt="image"></a></div>
 				</div>
 			</div>
 		</div>
-
-		<div id="fh5co-testimony" style="background-image: url(images/slide_3.jpg);" data-stellar-background-ratio="0.5">
-			<div class="fh5co-overlay"></div>
+		<!-- END fh5co-product-section -->
+		<div id="fh5co-section" class="fh5co-grey-section">
 			<div class="container">
 				<div class="row">
-					<div class="flexslider animate-box">
-							<ul class="slides">
-								<li>
-									<blockquote>
-										<p>&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite>&mdash; Frank Chimero</cite></p>
-									</blockquote>
-								</li>
-								<li>
-									<blockquote>
-										<p>&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite>&mdash; Ferdinand A. Porsche</cite></p>
-									</blockquote>
-								</li>
-								<li>
-									<blockquote>
-										<p>&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite>&mdash; Steve Jobs</cite></p>
-									</blockquote>
-								</li>
-								
-								
-							</ul>
-						</div>
-
-				</div>
-			</div>
-		</div>
-
-		<div id="fh5co-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-sm-6 animate-box">
-						<div class="fh5co-footer-widget">
-							<p>&copy; Enede - Arts Gràfiques i Disseny. All Rights Reserved.</p>
-							<p>Designed by David</p>
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-inner">
+							<i class="icon-shield"></i>
+							<div class="holder-section">
+								<h3>About Us</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-sm-6 animate-box">
-						<div class="fh5co-footer-widget">
-							<ul class="fh5co-social pull-right">
-								<li>
-									<a href="#"><i class="icon-twitter"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon-facebook"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon-vine"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon-behance"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon-google"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon-vimeo"></i></a>
-								</li>
-							</ul>
-						<div class="fh5co-footer-widget">
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-inner">
+							<i class="icon-strategy"></i>
+							<div class="holder-section">
+								<h3>What We Doe</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-inner">
+							<i class="icon-bike"></i>
+							<div class="holder-section">
+								<h3>Why We Choose Us</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
-	</div> <!-- END fh5co-page -->
-
+		<footer>
+			<div id="footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 text-center">
+							<p>Copyright 2022 <a href="#">ENEDE</a>. All Rights Reserved. <br>Made with <i class="icon-heart3 love"></i> by <a href="http://freehtml5.co/" target="_blank">Freehtml5.co</a> / Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
+							<p class="fh5co-social-icons">
+								<a href="#"><i class="icon-twitter-with-circle"></i></a>
+								<a href="#"><i class="icon-facebook-with-circle"></i></a>
+								<a href="#"><i class="icon-instagram-with-circle"></i></a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+	<!-- END: box-wrap -->
+	
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
 	<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
 	<script src="js/bootstrap.min.js"></script>
+	<!-- Owl carousel -->
+		<script src="js/owl.carousel.min.js"></script>
 	<!-- Waypoints -->
 	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Stellar Parallax -->
+	<!-- Parallax Stellar -->
 	<script src="js/jquery.stellar.min.js"></script>
-	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
-	<!-- Main JS -->
+
+	<!-- Main JS (Do not remove) -->
 	<script src="js/main.js"></script>
 
 	</body>
