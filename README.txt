@@ -1,6 +1,6 @@
 
 TITLE: 
-Fotografy - One Page Responsive Free HTML5 template
+ENEDE - Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
@@ -14,9 +14,6 @@ CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
-
-Bootstrap DateTimePicker
-https://github.com/Eonasdan/bootstrap-datetimepicker
 
 jQuery
 http://jquery.com/
@@ -42,12 +39,12 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
+Demo Images:
+http://unsplash.com
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
 Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
-FlexSlider
-https://www.woothemes.com/flexslider/
-
-Demo Images:
-http://pexels.com
-http://unsplash.com
